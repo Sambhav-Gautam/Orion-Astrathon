@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	NCBITAXON	OBI	EFO	MESH	NCIT	UO
+Term Source File	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/MESH	https://data.bioontology.org/ontologies/NCIT	http://data.bioontology.org/ontologies/UO
+Term Source Version	2	32	166	5	101	43
+Term Source Description	National Center for Biotechnology Information (NCBI) Organismal Classification	Ontology for Biomedical Investigations	Experimental Factor Ontology	Medical Subject Headings	National Cancer Institute Thesaurus	Units of Measurement Ontology
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	OSD-123
+Study Title	Exposure of zebrafish larvae to 3g and 5g hyper gravity between 5-6 days post-fertilization.
+Study Description	The general objective of the study was to determine modulation of gene expression by environmental factors, with a special emphasis on bone formation. For this reason, the specific period of treatment was chosen between 5-6 days post-fertilization (dpf), when bone formation and calcification are taking place. Zebrafish larvae were placed at 5 dpf into a Large Diameter Centrifuge and brought to a gravitational force of 3g or 5g for 24 hours. We show that this treatment causes a clear increase of bone formation, as illustrated by cranial skeleton staining of the bone matrix by Alizarin Red, by morphometric analysis of the resulting images and by gene expression studies of selected genes. Thus, a whole genome micro-array experiment was conducted to identify genes that may be involved in the observed effect on bone formation.
+Study Submission Date	21-Oct-2010
+Study Public Release Date	27-Feb-2015
+Study File Name	s_OSD-123.txt
+Comment[Acknowledgments]	
+Comment[DOI]	10.26030/g3jt-rb92
+Comment[Data Source Accession]	E-MTAB-3289
+Comment[Data Source Link]	http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3289/
+Comment[Experiment Platform]	
+Comment[Flight Program]	
+Comment[Funding]	This work was supported by the Fonds de la Recherche Fondamentale Collective; 2.4555.99/ 2.4542.00/2.4561.10, the SSTC; PAI: P5/35, the University of Liege; GAME project, the European Space Agency projects AO-99-LSS-003 and AO-99-LSS-006, the Belgian Space Agency Prodex projects FISH-GSIM and FISH-SIM.
+Comment[Identifiers]	
+Comment[Managing NASA Center]	
+Comment[Mission End]	
+Comment[Mission Link]	
+Comment[Mission Name]	
+Comment[Mission Start]	
+Comment[Project Identifier]	Simulated_Hypergravity
+Comment[Project Link]	
+Comment[Project Title]	
+Comment[Project Type]	Ground Study
+Comment[Space Program]	ESA
+Comment[Study Grant Number]	Fonds de la Recherche Fondamentale Collective; 2.4555.99/ 2.4542.00/2.4561.10
+STUDY DESIGN DESCRIPTORS
+Study Design Type	transcription profiling by array
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0002768
+Study Design Type Term Source REF	EFO
+STUDY PUBLICATIONS
+Study PubMed ID	26061167
+Study Publication DOI	10.1371/journal.pone.0126928
+Study Publication Author List	Jessica Aceto, Rasoul Nourizadeh-Lillabadi, Raphael Maree, Nathalie Jeanray, Louis Wehenkel, Peter Alestrom, Jack J.W.A. van Loon, Marc Muller
+Study Publication Title	Zebrafish bone and general physiology are differently affected by hormones or changes in gravity.
+Study Publication Status	published
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001796
+Study Publication Status Term Source REF	EFO
+Comment[Study Publication Link]	https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126928
+STUDY FACTORS
+Study Factor Name	Altered Gravity
+Study Factor Type	Gravity, Altered
+Study Factor Type Term Accession Number	http://purl.bioontology.org/ontology/MESH/D018470
+Study Factor Type Term Source REF	MESH
+STUDY ASSAYS
+Study Assay File Name	a_OSD-123_transcription-profiling_dna-microarray_Agilent.txt
+Study Assay Measurement Type	transcription profiling
+Study Assay Measurement Type Term Accession Number	obo:OBI_0000424
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	DNA microarray
+Study Assay Technology Type Term Accession Number	obo:OBI_0400147
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	Agilent
+STUDY PROTOCOLS
+Study Protocol Name	P-MTAB-43156	P-MTAB-43157	P-MTAB-43158	P-MTAB-43159	P-MTAB-43160	P-MTAB-43161
+Study Protocol Type	growth protocol	treatment protocol	nucleic acid extraction protocol	nucleic acid labeling protocol	nucleic acid hybridization	array scanning and feature extraction protocol
+Study Protocol Type Term Accession Number						
+Study Protocol Type Term Source REF						
+Study Protocol Description	Zebrafish (Danio rerio) were maintained under standard conditions in the GIGA zebrafish facility (licence LA2610359). Briefly, zebrafish (Danio rerio) of the AB strain were reared in a recirculating system from Techniplast, Italy at a maximal density of 7 fish/l. The water characteristics were as follows: pH = 7.4, conductivity = 500 microScm-1, temperature = 28C. The light cycle was controlled (14 h light, 10 h dark). Fish were fed twice daily with dry powder (ZM fish food) adapted to their age and once daily with fresh Artemia salina nauplii (ZM fish food). Larvae aged less than 14 days were also fed twice daily with a live paramecia culture. Wild type embryos were used and staged. The day before breeding, wild-type adult male and female zebrafish were set up in several breeding tanks, separated by a clear plastic wall. After the light was turned on the next morning, walls are removed, eggs are generated by natural mating and collected from 30 minutes to 2 hours after spawning. After sorting, clean eggs are moved to Petri dishes and incubated at 28C in E3 medium (5 mM Na Cl, 0.17 mM KCl, 0.33 mM CaCl2, 0.33 mM MgSO4, 0.00001 % Methylene Blue). All protocols for experiments were evaluated by the Institutional Animal Care and Use Committee of the University of Liege and approved under the file numbers 568, 1074, and 1264 (licence LA 1610002).	60 larvae at 5dpf were transferred into a 10 cm Petridish containing 20 ml of E3 medium and kept at normal gravity (controls) or transferred to the centrifuge and spun at 3g (3G) or 5g (5G) for 24 h.	Larvae at 6dpf, after 24h treatment, were used for the RNA extraction. Total RNA was extracted of 60 larvae per experiment using Trizol, followed by the RNeasy Mini kit (Qiagen, Hilden, Germany) according to the manufacturer's instructions and conserved at -80 degrees using. They were treated with Rnase-free Dnase Set (Qiagen, Hilden, Germany). After extraction, the quality and concentration of total RNA was evaluated by electrophoresis on capillary gel and the ratio of absorbance at 260/280nm by spectrophotometer (Bioanalyzer 2100, Agilent Technologies, Diegem, Belgium).	For microarray expression analysis, four replicates from each treatment (control and drug or gravity treatment) were analyzed in 2+2 dye-swap hybridizations. One ug total RNA was linearly amplified one round and labeled, using Amino Allyl Message Amp II aRNA amplification kit (Ambion-Life Technologies, Gent, Belgium) as previously described. Five ug of the resulting antisense RNA (aRNA) from the exposed and control groups was labeled either with Cy3-dUTP or Cy5-dUTP (GE Healthcare Bio-Sciences AB, Uppsala, Sweden). The labeled targets were examined for amplification yield and incorporation efficiency by measuring the aRNA concentration at 260 nm, Cy3 incorporation at 550 nm, and Cy5 at 650 nm using Nanodrop (Thermoscientific, Wilmington, DE, USA). A good aRNA probe had a labeling efficiency of 30-50 fluorochromes every 1000 bases. One to 5 ug of each labeled aRNA target was mixed, 9 ul 25X fragmentation buffer (Agilent Technologies, Diegem, Belgium) added, and the final volume adjusted to 225 ul with RNase-free H2O followed by incubation for 30 min at 60C.	The hybridization solution was prepared by adding 220.5 ul of 2X hybridization buffer (Agilent Technologies, Diegem, Belgium) and 4.5 ul sonicated herring sperm DNA (10 ug/ul; Promega, Madison, WI, USA) to the labeled target aRNA. Microarray slides (4x44K zebrafish V2 or V3, Agilent Technologies, Diegem, Belgium) were prehybridized at 42C, 60 min using 0.1% bovine serum albumin (BSA) Fraction V, 5X SSC, and 0.1% sodium dodecyl sulfate (SDS). Hybridization was performed at 60C in 16 h using gasket slides, hybridization chamber, and oven (Agilent Technologies, Diegem, Belgium) according to Agilent 60-mer oligo microarray processing protocol. Microarray slides were then washed 3 x 5 min in 0.5 X SSC, 0.01% SDS (first wash at 42C and next two at room temperature). Finally, slides were washed 3 times in room temp with 0.06X SSC and dried immediately with centrifugation at 800Xg for 1 min.	Microarray slides were scanned using a GenePix 4000B (Axon instrument, Foster City, CA). Scanning was performed at a level just before saturation of several spots. Raw data generated from Genepix were imported into the Bioconductor package LIMMA and corrected for background
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name		duration				
+Study Protocol Parameters Name Term Accession Number						
+Study Protocol Parameters Name Term Source REF						
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Nourizadeh	Muller
+Study Person First Name	Rasoul	Marc
+Study Person Mid Initials		
+Study Person Email	rasoul.nourizadeh-lillabadi@nmbu.no	m.muller@ulg.ac.be
+Study Person Phone		
+Study Person Fax		
+Study Person Address		
+Study Person Affiliation		
+Study Person Roles	submitter	data analyst;experiment performer
+Study Person Roles Term Accession Number		;
+Study Person Roles Term Source REF		;
+Comment[Study Person REF]		

@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	NCBITAXON	EFO	OBI	UO
+Term Source File	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/UO
+Term Source Version	2	111	21	42
+Term Source Description	National Center for Biotechnology Information (NCBI) Organismal Classification	Experimental Factor Ontology	Ontology for Biomedical Investigations	Units of Measurement Ontology
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	OSD-140
+Study Title	Dynamic nature of epigenetic patterns observed during the Mars 520-d mission simulation
+Study Description	Interplanetary human spaceflight represents a formidable medical challenge, but also provides a unique platform for investigating human adaptation to extreme environmental changes. Understanding the long-term effects of isolation has relevance in a range of scenarios and it is well recognized that a better understanding of the relationship between environmental exposure and the epigenome can lead to more effective preventive measures. Here we conduct a longitudinal epigenetic, mood state and biochemical profiling of 6 crew members in an experiment simulating a 520-day mission to Mars. Illumina HumanMethylation450 BeadChip was used to obtain DNA methylation profiles. Firstly, we found that long-term isolation can induce global DNA methylation remodeling, and this change seems to be an active adaptation (rather than a random process or a by-product of the isolation). This study is the first to demonstrate the dynamic relationship between global epigenetic remodeling and isolation-induced mood state and biochemical changes. Secondly, by considering the location of methylation sites within the genome and using gene-pathway annotation, we were able to identify pathways that were significantly enriched in methylation events and consider their association with specific function and the timeline of the mission. Thirdly, via our definition of epi-entropy, a measure of entropy adapted to methylation events, we observed that the methylation remodeling produced a marked reduction in epi-entropy. Results suggest that DNA methylation change is an indicator of change rather than its by-product, i.e., there is a psychology-epigenome-metabolism model of long-term depression; DNA methylation programs the environment signal into the epigenome, which is subsequently transformed into the biochemical output and health outcome. Thus, longitudinal epigenetic profiling could code the effect of isolation and act as early indicators of latent health outcome. A longitudinal epigenetic, mood state and biochemical profiling of 6 crew members in an experiment simulating a 520-day mission to Mars. 36 samples of blood cell DNA methylation profiling were obtained by Illumina HumanMethylation450 BeadChip, across 6 sampling points during the 520 days mission for all of the 6 crew members.
+Study Submission Date	13-Jan-2015
+Study Public Release Date	14-Jan-2015
+Study File Name	s_OSD-140.txt
+Comment[Acknowledgments]	
+Comment[DOI]	10.26030/pybz-6s43
+Comment[Data Source Accession]	E-GEOD-64950
+Comment[Data Source Link]	https://www.ebi.ac.uk/arrayexpress/experiments/E-GEOD-64950/
+Comment[Experiment Platform]	
+Comment[Flight Program]	
+Comment[Funding]	
+Comment[Identifiers]	
+Comment[Managing NASA Center]	
+Comment[Mission End]	
+Comment[Mission Link]	
+Comment[Mission Name]	
+Comment[Mission Start]	
+Comment[Project Identifier]	Simulated_Environmental_Factors
+Comment[Project Link]	
+Comment[Project Title]	
+Comment[Project Type]	Ground Study
+Comment[Space Program]	
+Comment[Study Grant Number]	
+STUDY DESIGN DESCRIPTORS
+Study Design Type	DNA methylation profiling assay
+Study Design Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000634
+Study Design Type Term Source REF	OBI
+STUDY PUBLICATIONS
+Study PubMed ID	35712082
+Study Publication DOI	10.1016/j.isci.2022.104493
+Study Publication Author List	Hou F, Zhou X, Zhou S, Liu H, Huang YE, Yuan M, Zhu J, Cao X, Jiang W.
+Study Publication Title	DNA methylation dynamics associated with long-term isolation of simulated space travel.
+Study Publication Status	published
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001796
+Study Publication Status Term Source REF	EFO
+Comment[Study Publication Link]	http://www.cell.com/article/S2589004222007647/pdf
+STUDY FACTORS
+Study Factor Name	Time
+Study Factor Type	time
+Study Factor Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000721
+Study Factor Type Term Source REF	EFO
+STUDY ASSAYS
+Study Assay File Name	a_OSD-140_dna-methylation-profiling_dna-microarray.txt
+Study Assay Measurement Type	DNA methylation profiling
+Study Assay Measurement Type Term Accession Number	obo:OBI_0000634
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	DNA microarray
+Study Assay Technology Type Term Accession Number	obo:OBI_0400148
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	
+STUDY PROTOCOLS
+Study Protocol Name	P-GSE64950-4	P-GSE64950-5	library construction	P-GSE64950-6	P-GSE64950-7	P-GSE64950-1	P-GSE64950-2
+Study Protocol Type	nucleic acid extraction protocol	labelling protocol	library construction	hybridization protocol	array scanning protocol	normalization data transformation protocol	sample treatment protocol
+Study Protocol Type Term Accession Number							
+Study Protocol Type Term Source REF							
+Study Protocol Description	DNA was extracted from frozen blood samples by standard proteinase K/RNase treatment and phenol/chloroform extraction.	Standard Illumina Protocol.		Bisulfite modification of DNA (≥500ng for each sample) was conducted using an EZ DNA Methylation Kit (Zymo Research) according to the manufacturer’s procedure.	The Infinium Methylation 450K assay was performed according to Illumina’s standard protocol.	minfi package (version: 1.8.9) in R Language (version: 3.0.2). ID_REF =  VALUE = Normalized Average Beta (SWAN normalization)	Peripheral whole blood cells were extracted from all six crew members before breakfast. After extraction, whole blood cells were immediately treated with EDTA anticoagulation, transferred outside of the module and centrifuged (at 3,000rpm for 15 minutes at 4C) to isolate the plasma from blood cells. Blood cells were stored at -70C until the DNA extraction was performed.
+Study Protocol URI							
+Study Protocol Version							
+Study Protocol Parameters Name			library mid				
+Study Protocol Parameters Name Term Accession Number							
+Study Protocol Parameters Name Term Source REF							
+Study Protocol Components Name							
+Study Protocol Components Type							
+Study Protocol Components Type Term Accession Number							
+Study Protocol Components Type Term Source REF							
+STUDY CONTACTS
+Study Person Last Name	Xiong	Xiong	Lyu	Liang	Wang	Yuan	Wang	Liu	Rayner	Ling	Yang	Fang	Li	Morukov	Chen	Wan	He	Wu	Qu	Bai	Chen	Li
+Study Person First Name	Jianghui	Jianghui	Ke	Fengji	Yue	Yanhong	Honghui	Changning	Simon	Shukuan	Fen	Haiquan	Xu	Boris	Hailong	Yumin	Li	Bin	Lina	Yanqiang	Shanguang	Yinghui
+Study Person Mid Initials														V								
+Study Person Email	xiongjh77@163.com																					
+Study Person Phone																						
+Study Person Fax																						
+Study Person Address	China Astronaut Research and Training Center, P.O.Box 5132-23, Beijing, China																					
+Study Person Affiliation	China Astronaut Research and Training Center																					
+Study Person Roles	submitter																					
+Study Person Roles Term Accession Number																						
+Study Person Roles Term Source REF																						
+Comment[Study Person REF]																						
